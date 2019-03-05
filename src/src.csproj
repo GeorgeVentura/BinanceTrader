@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>cTrader</AssemblyName>
+    <RootNamespace>cTrader</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="websocket-sharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>lib\websocket-sharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="MultiOrder.cs" />
+    <Compile Remove="SingleOrder.cs" />
+    <Compile Remove="Order\Quantity.cs" />
+    <Compile Remove="Graph\GraphUtil.cs" />
+  </ItemGroup>
+</Project>
