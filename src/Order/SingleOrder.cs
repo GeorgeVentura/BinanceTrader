@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ *    @author: George Ventura
+ *    @email:  ventura18@pm.me
+ *    @file:   SingleOrder.cs
+ * 
+ *    
+ */
+
+using System;
 using BinanceTrader.Graph;
 
 namespace BinanceTrader.Order

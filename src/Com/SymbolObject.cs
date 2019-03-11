@@ -1,4 +1,12 @@
-﻿using System.Collections.Generic;
+﻿/*
+ *    @author: George Ventura
+ *    @email:  ventura18@pm.me
+ *    @file:   SymbolObject.cs
+ * 
+ *    
+ */
+
+using System.Collections.Generic;
 
 namespace BinanceTrader.Com
 {

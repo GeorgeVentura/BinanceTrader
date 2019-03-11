@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ *    @author: George Ventura
+ *    @email:  ventura18@pm.me
+ *    @file:   OrderGenerator.cs
+ * 
+ *    
+ */
+
+using System;
 using System.Collections.Generic;
 using BinanceTrader.Exchange;
 using BinanceTrader.Graph;

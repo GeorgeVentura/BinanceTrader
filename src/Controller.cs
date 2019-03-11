@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ *    @author: George Ventura
+ *    @email:  ventura18@pm.me
+ *    @file:   Controller.cs
+ * 
+ *    
+ */
+
+using System;
 using BinanceTrader.Com;
 using BinanceTrader.Exchange;
 using BinanceTrader.Graph;

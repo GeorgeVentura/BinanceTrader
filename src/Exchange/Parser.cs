@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ *    @author: George Ventura
+ *    @email:  ventura18@pm.me
+ *    @file:   Parser.cs
+ * 
+ *    
+ */
+
+using System;
 using System.Linq;
 using System.Text.RegularExpressions;
 

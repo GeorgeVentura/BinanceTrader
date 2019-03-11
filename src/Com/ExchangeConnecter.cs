@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ *    @author: George Ventura
+ *    @email:  ventura18@pm.me
+ *    @file:   ExchangeConnecter.cs
+ * 
+ *    
+ */
+
+using System;
 using WebSocketSharp;
 using System.Collections.Concurrent;
 using System.Collections.Generic;

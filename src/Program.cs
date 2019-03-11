@@ -1,4 +1,6 @@
-﻿namespace BinanceTrader
+﻿
+
+namespace BinanceTrader
 {
   class Program
   {

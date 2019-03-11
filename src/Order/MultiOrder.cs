@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ *    @author: George Ventura
+ *    @email:  ventura18@pm.me
+ *    @file:   MultiOrder.cs
+ * 
+ *    
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 using BinanceTrader.Exchange;

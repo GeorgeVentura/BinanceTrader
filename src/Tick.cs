@@ -1,8 +1,9 @@
 ﻿/*
  *    @author: George Ventura
- *    @file:   Tick 1.cs
+ *    @email:  ventura18@pm.me
+ *    @file:   Tick.cs
  * 
- *    @description: This class holds data of the negative paths found.
+ *    
  */
 
 using System;

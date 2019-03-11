@@ -1,6 +1,10 @@
 ﻿/*
+/*
  *    @author: George Ventura
+ *    @email:  ventura18@pm.me
  *    @file:   Edge.cs
+ * 
+ *    
  */
 
 //todo: add last updated timestamp

@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ *    @author: George Ventura
+ *    @email:  ventura18@pm.me
+ *    @file:   ExchangeSymbol.cs
+ * 
+ *    
+ */
+
+using System;
 using System.Collections.Generic;
 using BinanceTrader.Com;
 

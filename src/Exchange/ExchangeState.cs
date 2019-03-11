@@ -1,4 +1,12 @@
-﻿using System.Collections.Generic;
+﻿/*
+ *    @author: George Ventura
+ *    @email:  ventura18@pm.me
+ *    @file:   ExchangeState.cs
+ * 
+ *    
+ */
+
+using System.Collections.Generic;
 using BinanceTrader.Com;
 
 namespace BinanceTrader.Exchange

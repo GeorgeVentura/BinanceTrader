@@ -1,0 +1,5 @@
+src/bin/*
+src/obj/*
+*.user
+.idea/*
+*.DS_Store*
