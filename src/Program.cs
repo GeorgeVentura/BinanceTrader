@@ -6,7 +6,8 @@ namespace BinanceTrader
   {
     static void Main(string[] args)
     {
-      var controller = new Controller("XRP");
+      const string startAsset = "XRP";
+      var controller = new Controller(startAsset);
     }
   }
 }

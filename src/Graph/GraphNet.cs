@@ -74,6 +74,7 @@ namespace BinanceTrader.Graph
       }
     }
     
+    // unused
     public void UpdateEdge2(string u, string v, double weight, double volume)
     {
       if (graph.ContainsKey(u) && graph[u].ContainsKey(v))
