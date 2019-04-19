@@ -11,6 +11,7 @@ using BinanceTrader.Com;
 using BinanceTrader.Exchange;
 using BinanceTrader.Graph;
 
+
 namespace BinanceTrader
 {
   public class Controller
