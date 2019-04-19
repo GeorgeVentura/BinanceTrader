@@ -113,8 +113,7 @@ namespace BinanceTrader.Order
     public override string ToString()
     {
       return Origin + "=>" + Dest + ", price:" + Rate + 
-             ", maxvol:" + MaxVolume + ", basevol:" + BaseVolume + 
-             ", quotevol:" + QuoteVolume + ", direction:" + Direction;
+             ", maxvol:" + MaxVolume  + ", direction:" + Direction;
     }
   }
 }
